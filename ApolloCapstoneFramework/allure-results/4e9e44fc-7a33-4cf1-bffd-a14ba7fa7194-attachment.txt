@@ -1,0 +1,12 @@
+[32mINFO    [0m utils.logger:test_end_to_end.py:36 Homepage loaded
+[32mINFO    [0m utils.logger:test_end_to_end.py:44 Clicked Buy Medicines
+[32mINFO    [0m utils.logger:test_end_to_end.py:52 Switched to new tab
+[32mINFO    [0m utils.logger:test_end_to_end.py:68 Scrolled
+[32mINFO    [0m utils.logger:test_end_to_end.py:78 Condition opened
+[32mINFO    [0m utils.logger:test_end_to_end.py:86 Product page loaded
+[32mINFO    [0m utils.logger:test_end_to_end.py:96 Filters applied
+[32mINFO    [0m utils.logger:test_end_to_end.py:104 Product added
+[32mINFO    [0m utils.logger:test_end_to_end.py:112 Cart opened
+[32mINFO    [0m utils.logger:test_end_to_end.py:120 Cart page validation passed
+[32mINFO    [0m utils.logger:test_end_to_end.py:130 Proceed clicked
+[32mINFO    [0m utils.logger:test_end_to_end.py:144 Mobile number entered

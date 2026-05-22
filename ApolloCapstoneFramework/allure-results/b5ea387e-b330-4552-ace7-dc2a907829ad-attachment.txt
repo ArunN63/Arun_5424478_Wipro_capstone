@@ -1,0 +1,8 @@
+Homepage loaded successfully
+No popup found
+Button text: Buy Medicines
+Button href: https://www.apollopharmacy.in/
+Clicked Buy Medicines
+Switched to new tab
+Switched to Apollo Pharmacy tab
+Apollo Pharmacy page opened

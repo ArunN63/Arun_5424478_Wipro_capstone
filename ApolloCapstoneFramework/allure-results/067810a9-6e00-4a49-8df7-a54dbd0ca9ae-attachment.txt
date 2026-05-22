@@ -1,0 +1,27 @@
+No popup found
+Button text: Buy Medicines
+Button href: https://www.apollopharmacy.in/
+Clicked Buy Medicines
+PASS: Invalid health condition handled properly
+Error Message: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff738477de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff738477e50+14900]
+	chromedriver!(No symbol) [0x7ff7381dd5ad]
+	chromedriver!(No symbol) [0x7ff738237822]
+	chromedriver!(No symbol) [0x7ff738237b2c]
+	chromedriver!(No symbol) [0x7ff738287d17]
+	chromedriver!(No symbol) [0x7ff73828486f]
+	chromedriver!(No symbol) [0x7ff738229df8]
+	chromedriver!(No symbol) [0x7ff73822ace3]
+	chromedriver!GetHandleVerifier [0x7ff73878cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff738787375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7387abc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff738496045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff73849ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff738481bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff738481d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7384660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffa14e2e957+17]
+	ntdll!RtlUserThreadStart [0x7ffa166e427c+2c]
+

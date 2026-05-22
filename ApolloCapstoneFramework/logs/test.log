@@ -1,0 +1,931 @@
+2026-05-19 10:35:39,902 - INFO - Browser launched
+2026-05-19 10:35:39,962 - INFO - Homepage loaded
+2026-05-19 10:35:58,965 - INFO - Clicked Buy Medicines
+2026-05-19 10:35:58,970 - INFO - Switched to new tab
+2026-05-19 10:36:07,070 - INFO - Health condition opened
+2026-05-19 10:36:07,090 - INFO - Product page loaded
+2026-05-19 10:36:09,148 - INFO - Added product to cart
+2026-05-19 10:36:09,339 - INFO - Screenshot captured
+2026-05-19 10:36:16,742 - INFO - Browser closed
+2026-05-19 10:40:35,353 - INFO - Browser launched
+2026-05-19 10:40:35,399 - INFO - Homepage loaded
+2026-05-19 10:40:53,588 - INFO - Clicked Buy Medicines
+2026-05-19 10:40:53,595 - INFO - Switched to new tab
+2026-05-19 10:40:58,606 - INFO - Scrolled down
+2026-05-19 10:41:03,691 - INFO - Opened diabetic page
+2026-05-19 10:41:03,715 - INFO - Product page loaded
+2026-05-19 10:52:48,581 - INFO - Browser launched
+2026-05-19 10:52:48,647 - INFO - Homepage loaded
+2026-05-19 10:53:09,821 - INFO - Clicked Buy Medicines
+2026-05-19 10:53:09,829 - INFO - Switched to new tab
+2026-05-19 10:53:14,842 - INFO - Scrolled down
+2026-05-19 10:53:20,059 - INFO - Opened diabetic page
+2026-05-19 10:53:20,530 - INFO - Product page loaded
+2026-05-19 10:53:38,088 - INFO - Applied 4 filters
+2026-05-19 10:53:45,222 - INFO - Added product to cart
+2026-05-19 10:53:45,453 - INFO - Screenshot captured
+2026-05-19 10:53:53,457 - INFO - Browser closed
+2026-05-19 11:17:49,582 - INFO - Browser launched
+2026-05-19 11:17:49,672 - INFO - Homepage loaded
+2026-05-19 11:18:16,847 - INFO - Clicked Buy Medicines
+2026-05-19 11:18:16,856 - INFO - Switched to new tab
+2026-05-19 11:18:27,150 - INFO - Opened Diabetes page
+2026-05-19 11:18:30,954 - INFO - Diabetes page loaded
+2026-05-19 11:18:48,451 - INFO - Applied 4 filters
+2026-05-19 11:18:55,585 - INFO - Added Diabetes product
+2026-05-19 11:19:01,224 - INFO - Returned to Apollo homepage
+2026-05-19 11:19:11,462 - INFO - Opened Stomach Care page
+2026-05-19 11:19:11,503 - INFO - Stomach Care page loaded
+2026-05-19 11:26:27,471 - INFO - Browser launched
+2026-05-19 11:26:27,588 - INFO - Homepage loaded
+2026-05-19 11:26:44,414 - INFO - Clicked Buy Medicines
+2026-05-19 11:26:44,453 - INFO - Switched to new tab
+2026-05-19 11:26:54,672 - INFO - Opened Diabetes page
+2026-05-19 11:26:54,834 - INFO - Diabetes page loaded
+2026-05-19 11:27:12,508 - INFO - Applied 4 filters
+2026-05-19 11:27:19,638 - INFO - Added Diabetes product
+2026-05-19 11:27:25,203 - INFO - Returned to Apollo homepage
+2026-05-19 11:27:35,447 - INFO - Opened second condition page
+2026-05-19 11:27:35,487 - INFO - Second condition page loaded
+2026-05-19 11:31:46,050 - INFO - Browser launched
+2026-05-19 11:31:46,146 - INFO - Homepage loaded
+2026-05-19 11:32:12,859 - INFO - Clicked Buy Medicines
+2026-05-19 11:32:12,867 - INFO - Switched to new tab
+2026-05-19 11:32:23,137 - INFO - Opened Diabetes page
+2026-05-19 11:37:18,778 - INFO - Browser launched
+2026-05-19 11:37:18,871 - INFO - Homepage loaded
+2026-05-19 11:37:45,922 - INFO - Clicked Buy Medicines
+2026-05-19 11:37:45,930 - INFO - Switched to new tab
+2026-05-19 11:38:04,167 - INFO - Opened Diabetes page
+2026-05-19 11:38:04,203 - INFO - Diabetes page loaded
+2026-05-19 11:38:26,746 - INFO - Applied 4 filters
+2026-05-19 11:38:36,842 - INFO - Added Diabetes product
+2026-05-19 11:38:42,679 - INFO - Returned to Apollo homepage
+2026-05-19 11:39:00,844 - INFO - Opened Cardiac page
+2026-05-19 11:39:00,873 - INFO - Cardiac page loaded
+2026-05-19 11:46:49,554 - INFO - Browser launched
+2026-05-19 11:46:49,627 - INFO - Homepage loaded
+2026-05-19 11:47:08,212 - INFO - Clicked Buy Medicines
+2026-05-19 11:47:08,221 - INFO - Switched to new tab
+2026-05-19 11:47:26,394 - INFO - Opened Diabetes page
+2026-05-19 11:47:26,429 - INFO - Diabetes page loaded
+2026-05-19 11:47:48,974 - INFO - Applied 4 filters
+2026-05-19 11:47:59,171 - INFO - Added Diabetes product
+2026-05-19 11:48:04,975 - INFO - Returned to Apollo homepage
+2026-05-19 11:48:23,149 - INFO - Opened Cardiac page
+2026-05-19 11:48:23,178 - INFO - Cardiac page loaded
+2026-05-19 11:59:13,124 - INFO - Browser launched
+2026-05-19 11:59:14,810 - INFO - Homepage loaded
+2026-05-19 11:59:39,561 - INFO - Clicked Buy Medicines
+2026-05-19 11:59:39,575 - INFO - Switched to new tab
+2026-05-19 11:59:57,781 - INFO - Opened Diabetes page
+2026-05-19 11:59:58,257 - INFO - Diabetes page loaded
+2026-05-19 12:00:20,801 - INFO - Applied 4 filters
+2026-05-19 12:00:30,913 - INFO - Added Diabetes product
+2026-05-19 12:00:34,843 - INFO - Returned to Health Conditions page
+2026-05-19 12:05:29,346 - INFO - Browser launched
+2026-05-19 12:05:29,425 - INFO - Homepage loaded
+2026-05-19 12:05:51,047 - INFO - Clicked Buy Medicines
+2026-05-19 12:05:51,060 - INFO - Switched to new tab
+2026-05-19 12:06:09,278 - INFO - Opened Diabetes page
+2026-05-19 12:06:09,321 - INFO - Diabetes page loaded
+2026-05-19 12:06:31,939 - INFO - Applied 4 filters
+2026-05-19 12:06:42,108 - INFO - Added Diabetes product
+2026-05-19 12:06:43,917 - INFO - Went back once
+2026-05-19 12:06:52,719 - INFO - Went back twice
+2026-05-19 13:27:37,792 - INFO - Homepage loaded successfully
+2026-05-19 13:27:51,409 - INFO - Apollo Pharmacy opened
+2026-05-19 13:27:59,693 - INFO - TC_01 Started
+2026-05-19 13:29:50,386 - INFO - Homepage loaded successfully
+2026-05-19 13:30:10,464 - INFO - Apollo Pharmacy opened
+2026-05-19 13:30:18,495 - INFO - TC_01 Started
+2026-05-19 13:30:26,671 - INFO - TC_01 Passed
+2026-05-19 13:30:34,833 - INFO - TC_02 Started
+2026-05-19 13:30:43,022 - INFO - TC_02 Passed
+2026-05-19 13:30:51,404 - INFO - TC_03 Started
+2026-05-19 13:30:59,605 - INFO - TC_03 Passed
+2026-05-19 13:31:08,013 - INFO - TC_04 Started
+2026-05-19 13:31:16,198 - INFO - TC_04 Passed
+2026-05-19 13:31:19,626 - INFO - Browser closed
+2026-05-19 13:38:30,343 - INFO - Homepage loaded successfully
+2026-05-19 13:38:50,894 - INFO - Apollo Pharmacy opened
+2026-05-19 13:38:59,824 - INFO - Browser closed
+2026-05-19 13:48:57,438 - INFO - Homepage loaded
+2026-05-19 13:49:14,542 - INFO - Apollo Pharmacy opened
+2026-05-19 13:49:22,586 - INFO - TC01 Started: Diabetes Care
+2026-05-19 13:49:57,663 - INFO - Browser closed
+2026-05-19 14:09:59,479 - INFO - Homepage loaded
+2026-05-19 14:10:24,315 - INFO - Apollo Pharmacy opened
+2026-05-19 14:10:32,345 - INFO - TC_01 Started
+2026-05-19 14:10:40,579 - INFO - Condition page opened
+2026-05-19 14:10:50,682 - INFO - First product opened
+2026-05-19 14:48:44,664 - INFO - Homepage loaded
+2026-05-19 14:49:02,647 - INFO - Apollo Pharmacy opened
+2026-05-19 14:49:10,672 - INFO - TC01: Clicking Diabetes Care
+2026-05-19 14:49:44,646 - INFO - Browser closed
+2026-05-19 14:52:04,583 - INFO - Homepage loaded
+2026-05-19 14:52:26,478 - INFO - Apollo Pharmacy opened
+2026-05-19 14:52:31,487 - INFO - TC01: Clicking Diabetes Care
+2026-05-19 14:53:10,500 - INFO - Browser closed
+2026-05-19 14:56:19,690 - INFO - Homepage loaded
+2026-05-19 14:56:33,562 - INFO - Apollo Pharmacy opened
+2026-05-19 14:56:38,575 - INFO - Clicking Diabetes Care
+2026-05-19 14:56:45,690 - INFO - Applying filters
+2026-05-19 14:56:49,044 - INFO - Adding first product to cart
+2026-05-19 14:57:14,344 - INFO - Browser closed
+2026-05-19 19:51:58,871 - INFO - Browser closed
+2026-05-19 19:58:51,969 - INFO - Browser closed
+2026-05-19 20:02:47,035 - INFO - Browser closed
+2026-05-19 20:09:04,045 - INFO - TC02 PASSED
+2026-05-19 20:09:07,375 - INFO - Browser closed
+2026-05-19 20:39:30,834 - INFO - TC03 PASSED
+2026-05-19 20:39:33,994 - INFO - Browser closed
+2026-05-19 20:44:54,115 - INFO - TC03 PASSED
+2026-05-19 20:44:57,144 - INFO - Browser closed
+2026-05-19 20:50:42,287 - INFO - TC03 PASSED
+2026-05-19 20:50:45,392 - INFO - Browser closed
+2026-05-19 21:02:43,036 - INFO - TC04 PASSED
+2026-05-19 21:02:46,174 - INFO - Browser closed
+2026-05-19 21:06:34,085 - INFO - TC04 PASSED
+2026-05-19 21:06:37,181 - INFO - Browser closed
+2026-05-19 21:10:17,739 - INFO - TC04 PASSED
+2026-05-19 21:10:20,806 - INFO - Browser closed
+2026-05-19 21:18:47,583 - INFO - TC04 PASSED
+2026-05-19 21:18:50,634 - INFO - Browser closed
+2026-05-19 21:24:59,439 - INFO - TC04 PASSED
+2026-05-19 21:25:02,509 - INFO - Browser closed
+2026-05-19 21:33:41,127 - INFO - TC04 PASSED
+2026-05-19 21:33:44,259 - INFO - Browser closed
+2026-05-19 21:35:13,910 - INFO - TC04 PASSED
+2026-05-19 21:35:17,045 - INFO - Browser closed
+2026-05-20 06:44:50,057 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 06:44:52,428 - INFO - Browser closed
+2026-05-20 06:46:15,681 - INFO - TC06 NEGATIVE PASSED
+2026-05-20 06:46:18,087 - INFO - Browser closed
+2026-05-20 06:51:47,120 - INFO - TC06 NEGATIVE PASSED
+2026-05-20 06:51:49,535 - INFO - Browser closed
+2026-05-20 06:57:30,371 - INFO - Browser closed
+2026-05-20 07:00:36,231 - INFO - Browser closed
+2026-05-20 07:07:23,917 - INFO - Browser closed
+2026-05-20 07:09:55,262 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 07:09:57,615 - INFO - Browser closed
+2026-05-20 07:12:33,665 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 07:12:36,028 - INFO - Browser closed
+2026-05-20 07:24:57,515 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 07:25:00,541 - INFO - Browser closed
+2026-05-20 07:33:10,592 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 07:33:13,564 - INFO - Browser closed
+2026-05-20 07:46:52,480 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 07:46:55,448 - INFO - Browser closed
+2026-05-20 07:55:24,020 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 07:55:26,991 - INFO - Browser closed
+2026-05-20 08:57:32,783 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 08:57:35,706 - INFO - Browser closed
+2026-05-20 09:08:52,056 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 09:08:55,033 - INFO - Browser closed
+2026-05-20 09:10:50,659 - INFO - TC01 PASSED
+2026-05-20 09:10:53,681 - INFO - Browser closed
+2026-05-20 09:12:23,888 - INFO - TC02 PASSED
+2026-05-20 09:12:26,900 - INFO - Browser closed
+2026-05-20 09:14:02,548 - INFO - TC03 PASSED
+2026-05-20 09:14:05,554 - INFO - Browser closed
+2026-05-20 09:15:20,871 - INFO - TC04 PASSED
+2026-05-20 09:15:23,874 - INFO - Browser closed
+2026-05-20 09:40:03,810 - INFO - TC01 PASSED
+2026-05-20 09:40:06,823 - INFO - Browser closed
+2026-05-20 09:40:43,673 - INFO - Browser closed
+2026-05-20 09:40:53,784 - INFO - Browser closed
+2026-05-20 09:41:03,543 - INFO - Browser closed
+2026-05-20 09:42:50,902 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 09:42:53,785 - INFO - Browser closed
+2026-05-20 09:48:07,273 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 09:48:10,190 - INFO - Browser closed
+2026-05-20 09:55:28,414 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 09:55:30,841 - INFO - Browser closed
+2026-05-20 10:04:40,088 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 10:04:42,466 - INFO - Browser closed
+2026-05-20 10:13:29,032 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 10:13:31,394 - INFO - Browser closed
+2026-05-20 10:16:20,347 - INFO - Homepage loaded
+2026-05-20 10:16:45,643 - INFO - Clicked Buy Medicines
+2026-05-20 10:16:53,649 - INFO - Switched to new tab
+2026-05-20 10:17:00,659 - INFO - Scrolled down
+2026-05-20 10:17:06,729 - INFO - Condition opened
+2026-05-20 10:17:11,432 - INFO - Product page loaded
+2026-05-20 10:17:25,547 - INFO - Filters applied
+2026-05-20 10:17:28,556 - INFO - Products loaded
+2026-05-20 10:17:40,597 - INFO - Product added to cart
+2026-05-20 10:17:40,685 - INFO - End to End Test Passed
+2026-05-20 10:17:48,083 - INFO - Browser closed
+2026-05-20 10:20:31,473 - INFO - Homepage loaded
+2026-05-20 10:20:59,906 - INFO - Clicked Buy Medicines
+2026-05-20 10:21:07,912 - INFO - Switched to new tab
+2026-05-20 10:21:14,919 - INFO - Scrolled down
+2026-05-20 10:21:20,997 - INFO - Condition opened
+2026-05-20 10:21:22,347 - INFO - Product page loaded
+2026-05-20 10:21:36,462 - INFO - Filters applied
+2026-05-20 10:21:39,472 - INFO - Products loaded
+2026-05-20 10:21:51,515 - INFO - Product added to cart
+2026-05-20 10:21:58,563 - INFO - Quantity increased to 2
+2026-05-20 10:22:05,609 - INFO - Quantity increased to 3
+2026-05-20 10:22:05,715 - INFO - End to End Test Passed
+2026-05-20 10:22:13,124 - INFO - Browser closed
+2026-05-20 10:26:50,421 - INFO - Homepage loaded
+2026-05-20 10:27:16,494 - INFO - Clicked Buy Medicines
+2026-05-20 10:27:24,513 - INFO - Switched to new tab
+2026-05-20 10:27:37,592 - INFO - Condition opened
+2026-05-20 10:27:39,038 - INFO - Product page loaded
+2026-05-20 10:27:53,158 - INFO - Filters applied
+2026-05-20 10:28:05,207 - INFO - Product added
+2026-05-20 10:28:15,141 - INFO - Cart opened
+2026-05-20 10:36:24,175 - INFO - Homepage loaded
+2026-05-20 10:36:50,102 - INFO - Clicked Buy Medicines
+2026-05-20 10:36:58,108 - INFO - Switched to new tab
+2026-05-20 10:37:05,116 - INFO - Scrolled
+2026-05-20 10:37:11,194 - INFO - Condition opened
+2026-05-20 10:37:11,433 - INFO - Product page loaded
+2026-05-20 10:37:25,565 - INFO - Filters applied
+2026-05-20 10:37:37,616 - INFO - Product added
+2026-05-20 10:37:47,626 - INFO - Cart opened
+2026-05-20 10:50:16,526 - INFO - Homepage loaded
+2026-05-20 10:50:48,563 - INFO - Clicked Buy Medicines
+2026-05-20 10:50:56,569 - INFO - Switched to new tab
+2026-05-20 10:51:03,576 - INFO - Scrolled
+2026-05-20 10:51:09,659 - INFO - Condition opened
+2026-05-20 10:51:09,677 - INFO - Product page loaded
+2026-05-20 10:51:23,789 - INFO - Filters applied
+2026-05-20 10:51:36,295 - INFO - Product added
+2026-05-20 10:51:48,126 - INFO - Cart opened
+2026-05-20 10:51:55,330 - INFO - Proceed clicked
+2026-05-20 10:51:59,722 - INFO - Mobile number entered
+2026-05-20 11:10:51,341 - INFO - Homepage loaded
+2026-05-20 11:11:19,342 - INFO - Clicked Buy Medicines
+2026-05-20 11:11:27,382 - INFO - Switched to new tab
+2026-05-20 11:11:34,458 - INFO - Scrolled
+2026-05-20 11:11:40,656 - INFO - Condition opened
+2026-05-20 11:11:42,008 - INFO - Product page loaded
+2026-05-20 11:11:56,329 - INFO - Filters applied
+2026-05-20 11:12:08,471 - INFO - Product added
+2026-05-20 11:12:19,456 - INFO - Cart opened
+2026-05-20 11:12:26,637 - INFO - Proceed clicked
+2026-05-20 11:12:31,090 - INFO - Mobile number entered
+2026-05-20 11:33:07,804 - INFO - Homepage loaded
+2026-05-20 11:33:35,650 - INFO - Clicked Buy Medicines
+2026-05-20 11:33:43,689 - INFO - Switched to new tab
+2026-05-20 11:33:50,726 - INFO - Scrolled
+2026-05-20 11:33:56,902 - INFO - Condition opened
+2026-05-20 11:33:57,464 - INFO - Product page loaded
+2026-05-20 11:34:11,724 - INFO - Filters applied
+2026-05-20 11:34:23,890 - INFO - Product added
+2026-05-20 11:34:33,834 - INFO - Cart opened
+2026-05-20 11:34:41,047 - INFO - Proceed clicked
+2026-05-20 11:34:48,429 - INFO - Mobile number entered
+2026-05-20 11:35:03,627 - INFO - Continue clicked
+2026-05-20 11:46:28,813 - INFO - Homepage loaded
+2026-05-20 11:46:48,088 - INFO - Clicked Buy Medicines
+2026-05-20 11:46:56,102 - INFO - Switched to new tab
+2026-05-20 11:47:03,116 - INFO - Scrolled
+2026-05-20 11:47:09,285 - INFO - Condition opened
+2026-05-20 11:47:10,065 - INFO - Product page loaded
+2026-05-20 11:47:24,294 - INFO - Filters applied
+2026-05-20 11:47:36,419 - INFO - Product added
+2026-05-20 11:50:35,786 - INFO - Homepage loaded
+2026-05-20 11:50:59,323 - INFO - Clicked Buy Medicines
+2026-05-20 11:51:07,368 - INFO - Switched to new tab
+2026-05-20 11:51:14,383 - INFO - Scrolled
+2026-05-20 11:51:20,573 - INFO - Condition opened
+2026-05-20 11:51:21,064 - INFO - Product page loaded
+2026-05-20 11:51:35,306 - INFO - Filters applied
+2026-05-20 11:51:47,461 - INFO - Product added
+2026-05-20 11:51:57,275 - INFO - Cart opened
+2026-05-20 11:52:04,474 - INFO - Proceed clicked
+2026-05-20 11:52:11,949 - INFO - Mobile number entered
+2026-05-20 11:52:27,190 - INFO - Continue clicked
+2026-05-20 12:02:16,979 - INFO - Homepage loaded
+2026-05-20 12:02:45,280 - INFO - Clicked Buy Medicines
+2026-05-20 12:02:53,297 - INFO - Switched to new tab
+2026-05-20 12:03:00,343 - INFO - Scrolled
+2026-05-20 12:03:06,541 - INFO - Condition opened
+2026-05-20 12:03:06,789 - INFO - Product page loaded
+2026-05-20 12:03:21,035 - INFO - Filters applied
+2026-05-20 12:03:33,118 - INFO - Product added
+2026-05-20 12:03:43,094 - INFO - Cart opened
+2026-05-20 12:03:50,286 - INFO - Proceed clicked
+2026-05-20 12:03:57,784 - INFO - Mobile number entered
+2026-05-20 12:04:13,009 - INFO - Continue clicked
+2026-05-20 12:09:24,121 - INFO - Screenshot captured
+2026-05-20 12:09:24,134 - INFO - End to End flow completed
+2026-05-20 12:18:14,556 - INFO - Homepage loaded
+2026-05-20 12:18:37,513 - INFO - Clicked Buy Medicines
+2026-05-20 12:18:45,525 - INFO - Switched to new tab
+2026-05-20 12:18:52,582 - INFO - Scrolled
+2026-05-20 12:18:58,760 - INFO - Condition opened
+2026-05-20 12:19:00,577 - INFO - Product page loaded
+2026-05-20 12:19:14,867 - INFO - Filters applied
+2026-05-20 12:19:27,052 - INFO - Product added
+2026-05-20 12:19:38,685 - INFO - Cart opened
+2026-05-20 12:19:45,861 - INFO - Proceed clicked
+2026-05-20 12:19:53,300 - INFO - Mobile number entered
+2026-05-20 12:20:08,495 - INFO - Continue clicked
+2026-05-20 12:20:28,656 - INFO - Screenshot captured
+2026-05-20 12:20:48,656 - INFO - End to End flow completed
+2026-05-20 12:42:23,207 - INFO - Homepage loaded
+2026-05-20 12:42:54,434 - INFO - Clicked Buy Medicines
+2026-05-20 12:43:02,441 - INFO - Switched to new tab
+2026-05-20 12:43:09,452 - INFO - Scrolled
+2026-05-20 12:43:15,529 - INFO - Condition opened
+2026-05-20 12:43:17,546 - INFO - Product page loaded
+2026-05-20 12:43:31,666 - INFO - Filters applied
+2026-05-20 12:43:43,708 - INFO - Product added
+2026-05-20 12:43:53,286 - INFO - Cart opened
+2026-05-20 12:44:00,367 - INFO - Proceed clicked
+2026-05-20 12:44:07,545 - INFO - Mobile number entered
+2026-05-20 12:44:22,628 - INFO - Continue clicked
+2026-05-20 12:44:42,722 - INFO - Screenshot captured
+2026-05-20 12:45:02,722 - INFO - End to End flow completed
+2026-05-20 12:49:32,105 - INFO - Homepage loaded
+2026-05-20 12:49:59,484 - INFO - Clicked Buy Medicines
+2026-05-20 12:50:07,489 - INFO - Switched to new tab
+2026-05-20 12:50:14,497 - INFO - Scrolled
+2026-05-20 12:50:20,586 - INFO - Condition opened
+2026-05-20 12:50:22,472 - INFO - Product page loaded
+2026-05-20 12:50:36,586 - INFO - Filters applied
+2026-05-20 12:50:48,639 - INFO - Product added
+2026-05-20 12:50:59,655 - INFO - Cart opened
+2026-05-20 12:51:06,740 - INFO - Proceed clicked
+2026-05-20 12:51:13,891 - INFO - Mobile number entered
+2026-05-20 12:51:28,975 - INFO - Continue clicked
+2026-05-20 12:55:28,467 - INFO - Homepage loaded
+2026-05-20 12:55:55,789 - INFO - Clicked Buy Medicines
+2026-05-20 12:56:03,794 - INFO - Switched to new tab
+2026-05-20 12:56:10,801 - INFO - Scrolled
+2026-05-20 12:56:16,875 - INFO - Condition opened
+2026-05-20 12:56:18,252 - INFO - Product page loaded
+2026-05-20 12:56:32,365 - INFO - Filters applied
+2026-05-20 12:56:44,416 - INFO - Product added
+2026-05-20 12:56:54,122 - INFO - Cart opened
+2026-05-20 12:57:01,202 - INFO - Proceed clicked
+2026-05-20 12:57:08,376 - INFO - Mobile number entered
+2026-05-20 12:57:23,455 - INFO - Continue clicked
+2026-05-20 13:03:08,583 - INFO - Homepage loaded
+2026-05-20 13:03:33,956 - INFO - Clicked Buy Medicines
+2026-05-20 13:03:41,963 - INFO - Switched to new tab
+2026-05-20 13:03:48,970 - INFO - Scrolled
+2026-05-20 13:03:55,039 - INFO - Condition opened
+2026-05-20 13:03:55,057 - INFO - Product page loaded
+2026-05-20 13:04:09,185 - INFO - Filters applied
+2026-05-20 13:04:21,244 - INFO - Product added
+2026-05-20 13:04:30,851 - INFO - Cart opened
+2026-05-20 13:04:37,932 - INFO - Proceed clicked
+2026-05-20 13:04:45,144 - INFO - Mobile number entered
+2026-05-20 13:05:00,228 - INFO - Continue clicked
+2026-05-20 13:09:37,588 - INFO - Homepage loaded
+2026-05-20 13:10:00,871 - INFO - Clicked Buy Medicines
+2026-05-20 13:10:08,888 - INFO - Switched to new tab
+2026-05-20 13:10:15,896 - INFO - Scrolled
+2026-05-20 13:10:21,989 - INFO - Condition opened
+2026-05-20 13:10:27,313 - INFO - Product page loaded
+2026-05-20 13:10:41,432 - INFO - Filters applied
+2026-05-20 13:10:53,473 - INFO - Product added
+2026-05-20 13:11:11,745 - INFO - Cart opened
+2026-05-20 13:11:18,825 - INFO - Proceed clicked
+2026-05-20 13:11:26,021 - INFO - Mobile number entered
+2026-05-20 13:11:41,109 - INFO - Continue clicked
+2026-05-20 13:19:04,875 - INFO - Homepage loaded
+2026-05-20 13:19:34,290 - INFO - Clicked Buy Medicines
+2026-05-20 13:19:42,297 - INFO - Switched to new tab
+2026-05-20 13:19:49,306 - INFO - Scrolled
+2026-05-20 13:19:55,406 - INFO - Condition opened
+2026-05-20 13:19:55,426 - INFO - Product page loaded
+2026-05-20 13:20:09,543 - INFO - Filters applied
+2026-05-20 13:20:21,599 - INFO - Product added
+2026-05-20 13:20:31,830 - INFO - Cart opened
+2026-05-20 13:20:38,912 - INFO - Proceed clicked
+2026-05-20 13:20:46,114 - INFO - Mobile number entered
+2026-05-20 13:21:01,206 - INFO - Continue clicked
+2026-05-20 13:21:55,278 - INFO - Address flow completed
+2026-05-20 13:21:55,397 - INFO - Screenshot captured
+2026-05-20 13:21:55,397 - INFO - End to End flow completed
+2026-05-20 13:56:01,236 - INFO - Homepage loaded
+2026-05-20 13:56:27,717 - INFO - Clicked Buy Medicines
+2026-05-20 13:56:35,735 - INFO - Switched to new tab
+2026-05-20 13:56:42,793 - INFO - Scrolled
+2026-05-20 13:56:48,988 - INFO - Condition opened
+2026-05-20 13:56:49,023 - INFO - Product page loaded
+2026-05-20 13:57:03,315 - INFO - Filters applied
+2026-05-20 13:57:15,492 - INFO - Product added
+2026-05-20 13:57:24,287 - INFO - Cart opened
+2026-05-20 13:57:31,531 - INFO - Proceed clicked
+2026-05-20 13:57:38,947 - INFO - Mobile number entered
+2026-05-20 13:57:54,175 - INFO - Continue clicked
+2026-05-20 13:58:29,339 - INFO - SELECT ADDRESS clicked
+2026-05-20 13:58:29,565 - INFO - Screenshot captured
+2026-05-20 13:58:29,565 - INFO - End to End flow completed
+2026-05-20 14:04:44,015 - INFO - Homepage loaded
+2026-05-20 14:05:10,617 - INFO - Clicked Buy Medicines
+2026-05-20 14:05:18,632 - INFO - Switched to new tab
+2026-05-20 14:05:25,647 - INFO - Scrolled
+2026-05-20 14:05:31,837 - INFO - Condition opened
+2026-05-20 14:05:31,874 - INFO - Product page loaded
+2026-05-20 14:05:46,150 - INFO - Filters applied
+2026-05-20 14:05:58,282 - INFO - Product added
+2026-05-20 14:06:08,286 - INFO - Cart opened
+2026-05-20 14:06:15,479 - INFO - Proceed clicked
+2026-05-20 14:06:22,942 - INFO - Mobile number entered
+2026-05-20 14:06:38,191 - INFO - Continue clicked
+2026-05-20 14:07:13,352 - INFO - SELECT ADDRESS clicked
+2026-05-20 14:07:23,627 - INFO - Add New Address clicked
+2026-05-20 14:07:23,833 - INFO - Screenshot captured
+2026-05-20 14:07:23,833 - INFO - End to End flow completed
+2026-05-20 14:24:15,577 - INFO - Homepage loaded
+2026-05-20 14:24:47,444 - INFO - Clicked Buy Medicines
+2026-05-20 14:24:55,483 - INFO - Switched to new tab
+2026-05-20 14:25:02,497 - INFO - Scrolled
+2026-05-20 14:25:08,704 - INFO - Condition opened
+2026-05-20 14:25:14,718 - INFO - Product page loaded
+2026-05-20 14:25:29,018 - INFO - Filters applied
+2026-05-20 14:25:41,156 - INFO - Product added
+2026-05-20 14:25:50,385 - INFO - Cart opened
+2026-05-20 14:25:57,695 - INFO - Proceed clicked
+2026-05-20 14:26:05,127 - INFO - Mobile number entered
+2026-05-20 14:26:20,372 - INFO - Continue clicked
+2026-05-20 14:26:55,567 - INFO - SELECT ADDRESS clicked
+2026-05-20 14:27:05,809 - INFO - Add New Address clicked
+2026-05-20 14:36:20,532 - INFO - Homepage loaded
+2026-05-20 14:36:48,770 - INFO - Clicked Buy Medicines
+2026-05-20 14:36:56,781 - INFO - Switched to new tab
+2026-05-20 14:37:03,795 - INFO - Scrolled
+2026-05-20 14:37:09,966 - INFO - Condition opened
+2026-05-20 14:37:10,003 - INFO - Product page loaded
+2026-05-20 14:37:24,237 - INFO - Filters applied
+2026-05-20 14:37:36,346 - INFO - Product added
+2026-05-20 14:37:46,274 - INFO - Cart opened
+2026-05-20 14:37:53,476 - INFO - Proceed clicked
+2026-05-20 14:38:00,899 - INFO - Mobile number entered
+2026-05-20 14:38:16,121 - INFO - Continue clicked
+2026-05-20 14:38:47,322 - INFO - SELECT ADDRESS clicked
+2026-05-20 14:38:57,560 - INFO - Add New Address clicked
+2026-05-20 14:39:05,884 - INFO - Tanuku selected
+2026-05-20 14:44:57,692 - INFO - Homepage loaded
+2026-05-20 14:45:31,300 - INFO - Clicked Buy Medicines
+2026-05-20 14:45:39,313 - INFO - Switched to new tab
+2026-05-20 14:45:46,328 - INFO - Scrolled
+2026-05-20 14:45:52,506 - INFO - Condition opened
+2026-05-20 14:45:52,659 - INFO - Product page loaded
+2026-05-20 14:46:06,957 - INFO - Filters applied
+2026-05-20 14:46:19,051 - INFO - Product added
+2026-05-20 14:46:29,887 - INFO - Cart opened
+2026-05-20 14:46:37,090 - INFO - Proceed clicked
+2026-05-20 14:46:44,517 - INFO - Mobile number entered
+2026-05-20 14:46:59,708 - INFO - Continue clicked
+2026-05-20 14:50:43,572 - INFO - Homepage loaded
+2026-05-20 14:51:16,880 - INFO - Clicked Buy Medicines
+2026-05-20 14:51:24,890 - INFO - Switched to new tab
+2026-05-20 14:51:31,902 - INFO - Scrolled
+2026-05-20 14:51:38,122 - INFO - Condition opened
+2026-05-20 14:51:39,022 - INFO - Product page loaded
+2026-05-20 14:51:53,274 - INFO - Filters applied
+2026-05-20 14:52:05,351 - INFO - Product added
+2026-05-20 14:52:15,133 - INFO - Cart opened
+2026-05-20 14:52:22,331 - INFO - Proceed clicked
+2026-05-20 14:52:29,808 - INFO - Mobile number entered
+2026-05-20 14:52:45,004 - INFO - Continue clicked
+2026-05-20 14:53:16,184 - INFO - SELECT ADDRESS clicked
+2026-05-20 14:53:26,386 - INFO - Add New Address clicked
+2026-05-20 14:53:34,679 - INFO - Tanuku selected
+2026-05-20 15:03:16,015 - INFO - Homepage loaded
+2026-05-20 15:03:42,303 - INFO - Clicked Buy Medicines
+2026-05-20 15:03:50,340 - INFO - Switched to new tab
+2026-05-20 15:03:57,386 - INFO - Scrolled
+2026-05-20 15:04:03,559 - INFO - Condition opened
+2026-05-20 15:04:03,904 - INFO - Product page loaded
+2026-05-20 15:04:18,142 - INFO - Filters applied
+2026-05-20 15:04:30,269 - INFO - Product added
+2026-05-20 15:04:41,458 - INFO - Cart opened
+2026-05-20 15:07:31,094 - INFO - Homepage loaded
+2026-05-20 15:07:56,122 - INFO - Clicked Buy Medicines
+2026-05-20 15:08:04,163 - INFO - Switched to new tab
+2026-05-20 15:08:08,177 - INFO - Scrolled
+2026-05-20 15:08:14,339 - INFO - Condition opened
+2026-05-20 15:08:18,144 - INFO - Product page loaded
+2026-05-20 15:08:32,390 - INFO - Filters applied
+2026-05-20 15:08:44,541 - INFO - Product added
+2026-05-20 15:08:56,716 - INFO - Cart opened
+2026-05-20 15:09:03,895 - INFO - Proceed clicked
+2026-05-20 15:09:11,340 - INFO - Mobile number entered
+2026-05-20 15:09:26,579 - INFO - Continue clicked
+2026-05-20 15:09:57,764 - INFO - SELECT ADDRESS clicked
+2026-05-20 15:10:07,955 - INFO - Add New Address clicked
+2026-05-20 15:10:16,226 - INFO - Tanuku selected
+2026-05-20 15:23:33,638 - INFO - Homepage loaded
+2026-05-20 15:23:55,316 - INFO - Clicked Buy Medicines
+2026-05-20 15:24:03,329 - INFO - Switched to new tab
+2026-05-20 15:24:07,347 - INFO - Scrolled
+2026-05-20 15:24:13,430 - INFO - Condition opened
+2026-05-20 15:24:16,508 - INFO - Product page loaded
+2026-05-20 15:24:30,623 - INFO - Filters applied
+2026-05-20 15:24:42,659 - INFO - Product added
+2026-05-20 15:24:52,219 - INFO - Cart opened
+2026-05-20 15:24:59,303 - INFO - Proceed clicked
+2026-05-20 15:25:06,486 - INFO - Mobile number entered
+2026-05-20 15:25:21,575 - INFO - Continue clicked
+2026-05-20 15:25:52,659 - INFO - SELECT ADDRESS clicked
+2026-05-20 15:26:02,762 - INFO - Add New Address clicked
+2026-05-20 15:26:10,881 - INFO - Tanuku selected
+2026-05-20 15:26:32,556 - INFO - Address details entered
+2026-05-20 15:32:13,964 - INFO - Homepage loaded
+2026-05-20 15:32:44,628 - INFO - Clicked Buy Medicines
+2026-05-20 15:32:52,636 - INFO - Switched to new tab
+2026-05-20 15:32:56,662 - INFO - Scrolled
+2026-05-20 15:33:02,732 - INFO - Condition opened
+2026-05-20 15:33:03,261 - INFO - Product page loaded
+2026-05-20 15:33:17,384 - INFO - Filters applied
+2026-05-20 15:33:29,423 - INFO - Product added
+2026-05-20 15:33:39,534 - INFO - Cart opened
+2026-05-20 15:33:46,615 - INFO - Proceed clicked
+2026-05-20 15:33:53,802 - INFO - Mobile number entered
+2026-05-20 15:34:08,884 - INFO - Continue clicked
+2026-05-20 15:34:39,961 - INFO - SELECT ADDRESS clicked
+2026-05-20 15:34:50,062 - INFO - Add New Address clicked
+2026-05-20 15:34:58,180 - INFO - Tanuku selected
+2026-05-20 15:35:20,037 - INFO - Address details entered
+2026-05-20 15:41:34,502 - INFO - Homepage loaded
+2026-05-20 15:42:51,278 - INFO - Homepage loaded
+2026-05-20 15:43:36,246 - INFO - Clicked Buy Medicines
+2026-05-20 15:43:44,253 - INFO - Switched to new tab
+2026-05-20 15:43:48,269 - INFO - Scrolled
+2026-05-20 15:43:54,353 - INFO - Condition opened
+2026-05-20 15:43:58,793 - INFO - Product page loaded
+2026-05-20 15:44:12,916 - INFO - Filters applied
+2026-05-20 15:44:24,955 - INFO - Product added
+2026-05-20 15:44:38,596 - INFO - Cart opened
+2026-05-20 15:44:45,680 - INFO - Proceed clicked
+2026-05-20 15:44:52,869 - INFO - Mobile number entered
+2026-05-20 15:45:07,960 - INFO - Continue clicked
+2026-05-20 15:45:39,063 - INFO - SELECT ADDRESS clicked
+2026-05-20 15:45:49,162 - INFO - Add New Address clicked
+2026-05-20 15:45:57,295 - INFO - Tanuku selected
+2026-05-20 15:46:40,245 - INFO - Address details entered
+2026-05-20 15:56:35,304 - INFO - Homepage loaded
+2026-05-20 15:57:01,000 - INFO - Clicked Buy Medicines
+2026-05-20 15:57:09,008 - INFO - Switched to new tab
+2026-05-20 15:57:13,021 - INFO - Scrolled
+2026-05-20 15:57:19,099 - INFO - Condition opened
+2026-05-20 15:57:19,864 - INFO - Product page loaded
+2026-05-20 15:57:33,984 - INFO - Filters applied
+2026-05-20 15:57:46,039 - INFO - Product added
+2026-05-20 15:58:00,343 - INFO - Cart opened
+2026-05-20 15:58:07,432 - INFO - Proceed clicked
+2026-05-20 15:58:14,638 - INFO - Mobile number entered
+2026-05-20 15:58:29,728 - INFO - Continue clicked
+2026-05-20 15:59:00,806 - INFO - SELECT ADDRESS clicked
+2026-05-20 15:59:10,921 - INFO - Add New Address clicked
+2026-05-20 15:59:19,047 - INFO - Tanuku selected
+2026-05-20 15:59:40,886 - INFO - Address details entered
+2026-05-20 16:00:16,080 - INFO - Recipient details entered
+2026-05-20 16:00:16,210 - INFO - Screenshot captured
+2026-05-20 16:00:16,210 - INFO - End to End flow completed
+2026-05-20 20:23:00,090 - INFO - Homepage loaded
+2026-05-20 20:23:26,750 - INFO - Clicked Buy Medicines
+2026-05-20 20:23:34,765 - INFO - Switched to new tab
+2026-05-20 20:23:38,795 - INFO - Scrolled
+2026-05-20 20:23:41,977 - INFO - Condition opened
+2026-05-20 20:23:42,143 - INFO - Product page loaded
+2026-05-20 20:23:52,406 - INFO - Filters applied
+2026-05-20 20:24:01,564 - INFO - Product added
+2026-05-20 20:24:10,781 - INFO - Cart opened
+2026-05-20 20:24:10,790 - INFO - Cart page validation passed
+2026-05-20 20:24:17,995 - INFO - Proceed clicked
+2026-05-20 20:24:25,410 - INFO - Mobile number entered
+2026-05-20 20:26:22,215 - INFO - TC05 NEGATIVE PASSED
+2026-05-20 20:26:25,327 - INFO - Browser closed
+2026-05-20 20:27:25,624 - INFO - TC06 NEGATIVE PASSED
+2026-05-20 20:27:28,923 - INFO - Browser closed
+2026-05-20 20:28:35,066 - INFO - TC01 PASSED
+2026-05-20 20:28:38,127 - INFO - Browser closed
+2026-05-20 20:29:58,917 - INFO - TC02 PASSED
+2026-05-20 20:30:01,963 - INFO - Browser closed
+2026-05-20 20:31:21,095 - INFO - TC03 PASSED
+2026-05-20 20:31:24,071 - INFO - Browser closed
+2026-05-20 20:32:48,612 - INFO - TC04 PASSED
+2026-05-20 20:32:54,651 - INFO - Browser closed
+2026-05-20 20:38:40,970 - INFO - Homepage loaded
+2026-05-20 20:39:07,373 - INFO - Clicked Buy Medicines
+2026-05-20 20:39:15,384 - INFO - Switched to new tab
+2026-05-20 20:39:19,405 - INFO - Scrolled
+2026-05-20 20:39:22,480 - INFO - Condition opened
+2026-05-20 20:39:24,180 - INFO - Product page loaded
+2026-05-20 20:39:34,301 - INFO - Filters applied
+2026-05-20 20:39:43,342 - INFO - Product added
+2026-05-20 20:39:52,403 - INFO - Cart opened
+2026-05-20 20:39:52,408 - INFO - Cart page validation passed
+2026-05-20 20:39:59,489 - INFO - Proceed clicked
+2026-05-20 20:40:06,643 - INFO - Mobile number entered
+2026-05-20 20:40:06,643 - INFO - Mobile validation passed
+2026-05-20 20:40:21,718 - INFO - Continue clicked
+2026-05-20 20:40:52,799 - INFO - SELECT ADDRESS clicked
+2026-05-20 20:41:02,894 - INFO - Add New Address clicked
+2026-05-20 20:41:11,012 - INFO - Tanuku selected
+2026-05-20 20:44:43,431 - INFO - Homepage loaded
+2026-05-20 20:45:08,538 - INFO - Clicked Buy Medicines
+2026-05-20 20:45:16,549 - INFO - Switched to new tab
+2026-05-20 20:45:20,559 - INFO - Scrolled
+2026-05-20 20:45:23,630 - INFO - Condition opened
+2026-05-20 20:45:25,846 - INFO - Product page loaded
+2026-05-20 20:45:35,963 - INFO - Filters applied
+2026-05-20 20:45:45,024 - INFO - Product added
+2026-05-20 20:45:54,164 - INFO - Cart opened
+2026-05-20 20:45:54,169 - INFO - Cart page validation passed
+2026-05-20 20:46:01,248 - INFO - Proceed clicked
+2026-05-20 20:46:08,402 - INFO - Mobile number entered
+2026-05-20 20:46:08,402 - INFO - Mobile validation passed
+2026-05-20 20:46:23,475 - INFO - Continue clicked
+2026-05-20 20:46:54,551 - INFO - SELECT ADDRESS clicked
+2026-05-20 20:47:04,656 - INFO - Add New Address clicked
+2026-05-20 20:47:12,766 - INFO - Tanuku selected
+2026-05-20 20:51:06,587 - INFO - Homepage loaded
+2026-05-20 20:51:31,292 - INFO - Clicked Buy Medicines
+2026-05-20 20:51:39,302 - INFO - Switched to new tab
+2026-05-20 20:51:44,311 - INFO - Scrolled
+2026-05-20 20:51:47,380 - INFO - Clicked condition 5
+2026-05-20 20:51:47,954 - INFO - Product page loaded
+2026-05-20 20:51:58,074 - INFO - Filters applied
+2026-05-20 20:52:07,118 - INFO - Product added
+2026-05-20 20:52:17,183 - INFO - Cart opened
+2026-05-20 20:52:17,193 - INFO - Cart page validation passed
+2026-05-20 20:52:24,270 - INFO - Proceed clicked
+2026-05-20 20:52:31,423 - INFO - Mobile number entered
+2026-05-20 20:52:31,423 - INFO - Mobile validation passed
+2026-05-20 20:52:46,509 - INFO - Continue clicked
+2026-05-20 20:53:17,579 - INFO - SELECT ADDRESS clicked
+2026-05-20 20:53:27,671 - INFO - Add New Address clicked
+2026-05-20 20:53:35,781 - INFO - Tanuku selected
+2026-05-20 20:53:56,945 - INFO - Address details entered
+2026-05-20 20:54:32,137 - INFO - Recipient details entered
+2026-05-20 20:54:32,193 - INFO - Address validation passed
+2026-05-20 20:54:32,320 - INFO - Screenshot captured
+2026-05-20 20:54:32,320 - INFO - End to End flow completed
+2026-05-20 20:54:39,832 - INFO - Browser closed
+2026-05-21 06:52:53,799 - INFO - Browser closed
+2026-05-21 06:54:48,178 - INFO - Homepage loaded
+2026-05-21 06:55:16,572 - INFO - Buy Medicines clicked
+2026-05-21 06:55:21,638 - INFO - Scrolled little
+2026-05-21 06:55:24,787 - INFO - Diabetes category opened
+2026-05-21 06:55:25,934 - INFO - Product page loaded
+2026-05-21 06:56:16,834 - INFO - Browser closed
+2026-05-21 06:59:49,068 - INFO - Homepage loaded
+2026-05-21 07:00:13,881 - INFO - Buy Medicines clicked
+2026-05-21 07:00:18,894 - INFO - Scrolled little
+2026-05-21 07:00:22,035 - INFO - Diabetes category opened
+2026-05-21 07:00:23,301 - INFO - Product page loaded
+2026-05-21 07:01:07,806 - INFO - Browser closed
+2026-05-21 07:04:35,011 - INFO - Homepage loaded
+2026-05-21 07:05:02,062 - INFO - Buy Medicines clicked
+2026-05-21 07:05:07,101 - INFO - Scrolled little
+2026-05-21 07:05:10,247 - INFO - Diabetes category opened
+2026-05-21 07:05:11,656 - INFO - Product page loaded
+2026-05-21 07:05:18,715 - INFO - Browser closed
+2026-05-21 07:13:37,937 - INFO - Homepage loaded
+2026-05-21 07:14:04,798 - INFO - Buy Medicines clicked
+2026-05-21 07:14:09,837 - INFO - Scrolled little
+2026-05-21 07:14:12,984 - INFO - Diabetes category opened
+2026-05-21 07:14:14,404 - INFO - Product page loaded
+2026-05-21 07:14:30,901 - INFO - Filters applied
+2026-05-21 07:14:51,479 - INFO - Products loaded
+2026-05-21 07:15:20,098 - INFO - Browser closed
+2026-05-21 07:16:49,335 - INFO - Homepage loaded
+2026-05-21 07:17:16,516 - INFO - Buy Medicines clicked
+2026-05-21 07:17:21,549 - INFO - Scrolled little
+2026-05-21 07:17:24,689 - INFO - Diabetes category opened
+2026-05-21 07:17:26,225 - INFO - Product page loaded
+2026-05-21 07:17:28,239 - INFO - Products loaded
+2026-05-21 07:17:37,453 - INFO - Product added
+2026-05-21 07:17:46,164 - INFO - Cart opened
+2026-05-21 07:17:46,174 - INFO - Cart page verified
+2026-05-21 07:18:31,800 - INFO - Browser closed
+2026-05-21 07:23:08,421 - INFO - Homepage loaded
+2026-05-21 07:23:39,494 - INFO - Buy Medicines clicked
+2026-05-21 07:23:44,505 - INFO - Scrolled little
+2026-05-21 07:23:47,576 - INFO - Diabetes category opened
+2026-05-21 07:23:48,480 - INFO - Product page loaded
+2026-05-21 07:23:50,487 - INFO - Products loaded
+2026-05-21 07:23:59,543 - INFO - Product added
+2026-05-21 07:24:08,484 - INFO - Cart opened
+2026-05-21 07:24:08,489 - INFO - Cart page verified
+2026-05-21 07:24:29,067 - INFO - Circle Membership added
+2026-05-21 07:24:29,174 - INFO - Screenshot captured
+2026-05-21 07:24:29,174 - INFO - TC01 PASSED
+2026-05-21 07:24:31,602 - INFO - Browser closed
+2026-05-21 07:57:48,830 - INFO - Homepage loaded
+2026-05-21 07:58:08,623 - INFO - Clicked Buy Medicines
+2026-05-21 07:58:16,632 - INFO - Switched to new tab
+2026-05-21 07:58:20,646 - INFO - Scrolled
+2026-05-21 07:58:22,803 - INFO - Clicked condition 5
+2026-05-21 07:58:23,082 - INFO - Product page loaded
+2026-05-21 07:58:29,313 - INFO - Filters applied
+2026-05-21 07:58:55,773 - INFO - Browser closed
+2026-05-21 08:00:53,828 - INFO - TC05 NEGATIVE PASSED
+2026-05-21 08:00:56,798 - INFO - Browser closed
+2026-05-21 08:01:44,371 - INFO - TC06 NEGATIVE PASSED
+2026-05-21 08:01:47,856 - INFO - Browser closed
+2026-05-21 08:01:58,149 - INFO - Homepage loaded
+2026-05-21 08:02:24,645 - INFO - Buy Medicines clicked
+2026-05-21 08:02:28,659 - INFO - Scrolled little
+2026-05-21 08:02:30,796 - INFO - Diabetes category opened
+2026-05-21 08:02:31,556 - INFO - Product page loaded
+2026-05-21 08:02:35,300 - INFO - Products loaded
+2026-05-21 08:02:39,377 - INFO - Product added
+2026-05-21 08:02:48,356 - INFO - Cart opened
+2026-05-21 08:02:48,364 - INFO - Cart page verified
+2026-05-21 08:03:08,956 - INFO - Circle Membership added
+2026-05-21 08:03:09,102 - INFO - Screenshot captured
+2026-05-21 08:03:09,103 - INFO - TC01 PASSED
+2026-05-21 08:03:12,711 - INFO - Browser closed
+2026-05-21 08:04:33,458 - INFO - TC02 PASSED
+2026-05-21 08:04:36,505 - INFO - Browser closed
+2026-05-21 08:05:38,473 - INFO - TC03 PASSED
+2026-05-21 08:05:41,497 - INFO - Browser closed
+2026-05-21 08:06:41,667 - INFO - TC04 PASSED
+2026-05-21 08:06:44,817 - INFO - Browser closed
+2026-05-21 08:12:30,092 - INFO - Homepage loaded
+2026-05-21 08:12:56,981 - INFO - Clicked Buy Medicines
+2026-05-21 08:13:04,993 - INFO - Switched to new tab
+2026-05-21 08:13:09,060 - INFO - Scrolled
+2026-05-21 08:13:11,208 - INFO - Clicked condition 5
+2026-05-21 08:13:11,777 - INFO - Product page loaded
+2026-05-21 08:13:18,041 - INFO - Filters applied
+2026-05-21 08:13:44,044 - INFO - Browser closed
+2026-05-21 08:16:22,386 - INFO - Homepage loaded
+2026-05-21 08:16:48,520 - INFO - Clicked Buy Medicines
+2026-05-21 08:16:56,565 - INFO - Switched to new tab
+2026-05-21 08:17:00,589 - INFO - Scrolled
+2026-05-21 08:17:02,750 - INFO - Clicked condition 3
+2026-05-21 08:17:05,664 - INFO - Product page loaded
+2026-05-21 08:17:11,950 - INFO - Filters applied
+2026-05-21 08:17:37,896 - INFO - Browser closed
+2026-05-21 08:25:04,768 - INFO - Homepage loaded
+2026-05-21 08:25:31,947 - INFO - Clicked Buy Medicines
+2026-05-21 08:25:39,990 - INFO - Switched to new tab
+2026-05-21 08:25:44,010 - INFO - Scrolled
+2026-05-21 08:25:46,191 - INFO - Clicked condition 3
+2026-05-21 08:25:47,202 - INFO - Product page loaded
+2026-05-21 08:26:05,541 - INFO - Filters applied
+2026-05-21 08:26:26,136 - INFO - Products loaded after filters
+2026-05-21 08:26:52,167 - INFO - Browser closed
+2026-05-21 08:33:19,974 - INFO - Homepage loaded
+2026-05-21 08:33:46,425 - INFO - Clicked Buy Medicines
+2026-05-21 08:33:54,435 - INFO - Switched to new tab
+2026-05-21 08:33:58,450 - INFO - Scrolled
+2026-05-21 08:34:00,678 - INFO - Clicked condition 3
+2026-05-21 08:34:01,537 - INFO - Product page loaded
+2026-05-21 08:34:19,855 - INFO - Filters applied
+2026-05-21 08:34:45,420 - INFO - Products not displayed after filters
+2026-05-21 08:34:45,733 - INFO - Filter issue screenshot captured
+2026-05-21 08:34:49,431 - INFO - Browser closed
+2026-05-21 08:44:45,450 - INFO - TC02 PASSED
+2026-05-21 08:44:48,533 - INFO - Browser closed
+2026-05-21 09:48:15,820 - INFO - Homepage loaded
+2026-05-21 09:48:39,841 - INFO - Clicked Buy Medicines
+2026-05-21 09:48:47,854 - INFO - Switched to new tab
+2026-05-21 09:48:51,867 - INFO - Scrolled
+2026-05-21 09:48:54,031 - INFO - Clicked condition 3
+2026-05-21 09:48:54,318 - INFO - Product page loaded
+2026-05-21 09:49:12,601 - INFO - Filters applied
+2026-05-21 09:49:22,641 - INFO - Products displayed after filters
+2026-05-21 09:49:29,048 - INFO - Product added
+2026-05-21 09:49:41,102 - INFO - Cart opened
+2026-05-21 09:49:41,116 - INFO - Cart page validation passed
+2026-05-21 09:50:01,720 - INFO - Membership section handled
+2026-05-21 09:50:08,943 - INFO - Proceed clicked
+2026-05-21 09:50:16,362 - INFO - Mobile number entered
+2026-05-21 09:50:16,363 - INFO - Mobile validation passed
+2026-05-21 09:50:31,602 - INFO - Continue clicked
+2026-05-21 09:51:02,790 - INFO - SELECT ADDRESS clicked
+2026-05-21 09:51:12,990 - INFO - Add New Address clicked
+2026-05-21 09:51:19,280 - INFO - Tanuku selected
+2026-05-21 09:51:31,745 - INFO - Address details entered
+2026-05-21 09:52:03,190 - INFO - Recipient details entered
+2026-05-21 09:52:08,643 - INFO - Browser closed
+2026-05-21 09:56:37,335 - INFO - Homepage loaded
+2026-05-21 09:57:12,183 - INFO - Clicked Buy Medicines
+2026-05-21 09:57:20,197 - INFO - Switched to new tab
+2026-05-21 09:57:24,209 - INFO - Scrolled
+2026-05-21 09:57:26,391 - INFO - Clicked condition 3
+2026-05-21 09:57:29,075 - INFO - Product page loaded
+2026-05-21 09:57:47,356 - INFO - Filters applied
+2026-05-21 09:58:33,596 - INFO - Products not displayed after filters
+2026-05-21 09:58:38,982 - INFO - Products loaded after refresh
+2026-05-21 09:58:45,384 - INFO - Product added after refresh
+2026-05-21 09:58:54,666 - INFO - Cart opened
+2026-05-21 09:58:54,674 - INFO - Cart page validation passed
+2026-05-21 09:59:15,279 - INFO - Membership section handled
+2026-05-21 09:59:22,475 - INFO - Proceed clicked
+2026-05-21 09:59:29,901 - INFO - Mobile number entered
+2026-05-21 09:59:29,902 - INFO - Mobile validation passed
+2026-05-21 09:59:45,218 - INFO - Continue clicked
+2026-05-21 10:00:16,383 - INFO - SELECT ADDRESS clicked
+2026-05-21 10:00:26,607 - INFO - Add New Address clicked
+2026-05-21 10:00:32,867 - INFO - Tanuku selected
+2026-05-21 10:00:45,289 - INFO - Address details entered
+2026-05-21 10:01:16,766 - INFO - Recipient details entered
+2026-05-21 10:01:21,584 - INFO - Browser closed
+2026-05-22 09:10:48,570 - INFO - Homepage loaded
+2026-05-22 09:11:17,061 - INFO - Clicked Buy Medicines
+2026-05-22 09:11:25,071 - INFO - Switched to new tab
+2026-05-22 09:11:29,091 - INFO - Scrolled
+2026-05-22 09:11:31,303 - INFO - Clicked condition 3
+2026-05-22 09:11:31,583 - INFO - Product page loaded
+2026-05-22 09:11:49,850 - INFO - Filters applied
+2026-05-22 09:11:56,915 - INFO - Products displayed after filters
+2026-05-22 09:12:03,313 - INFO - Product added
+2026-05-22 09:12:11,675 - INFO - Cart opened
+2026-05-22 09:12:11,685 - INFO - Cart page validation passed
+2026-05-22 09:12:32,224 - INFO - Membership section handled
+2026-05-22 09:12:39,419 - INFO - Proceed clicked
+2026-05-22 09:12:46,827 - INFO - Mobile number entered
+2026-05-22 09:12:46,828 - INFO - Mobile validation passed
+2026-05-22 09:13:01,988 - INFO - Continue clicked
+2026-05-22 09:13:33,165 - INFO - SELECT ADDRESS clicked
+2026-05-22 09:13:43,397 - INFO - Add New Address clicked
+2026-05-22 09:13:49,712 - INFO - Tanuku selected
+2026-05-22 09:14:02,086 - INFO - Address details entered
+2026-05-22 09:14:33,527 - INFO - Recipient details entered
+2026-05-22 09:14:39,482 - INFO - Browser closed
+2026-05-22 09:33:42,921 - INFO - Homepage loaded
+2026-05-22 09:34:15,676 - INFO - Clicked Buy Medicines
+2026-05-22 09:34:23,687 - INFO - Switched to new tab
+2026-05-22 09:34:27,699 - INFO - Scrolled
+2026-05-22 09:34:29,851 - INFO - Clicked condition 3
+2026-05-22 09:34:30,758 - INFO - Product page loaded
+2026-05-22 09:34:49,060 - INFO - Filters applied
+2026-05-22 09:34:55,458 - INFO - Product added
+2026-05-22 09:35:04,069 - INFO - Cart opened
+2026-05-22 09:35:04,078 - INFO - Cart page validation passed
+2026-05-22 09:35:24,661 - INFO - Membership section handled
+2026-05-22 09:35:31,854 - INFO - Proceed clicked
+2026-05-22 09:35:39,271 - INFO - Mobile number entered
+2026-05-22 09:35:39,271 - INFO - Mobile validation passed
+2026-05-22 09:35:54,476 - INFO - Continue clicked
+2026-05-22 09:36:25,660 - INFO - SELECT ADDRESS clicked
+2026-05-22 09:36:35,884 - INFO - Add New Address clicked
+2026-05-22 09:36:42,209 - INFO - Tanuku selected
+2026-05-22 09:36:54,709 - INFO - Address details entered
+2026-05-22 09:37:26,136 - INFO - Recipient details entered
+2026-05-22 09:37:31,591 - INFO - Browser closed
+2026-05-22 09:43:22,796 - INFO - Homepage loaded
+2026-05-22 09:43:49,372 - INFO - Clicked Buy Medicines
+2026-05-22 09:43:57,382 - INFO - Switched to new tab
+2026-05-22 09:44:01,396 - INFO - Scrolled
+2026-05-22 09:44:03,546 - INFO - Clicked condition 3
+2026-05-22 09:44:04,182 - INFO - Product page loaded
+2026-05-22 09:44:22,477 - INFO - Filters applied
+2026-05-22 09:44:28,926 - INFO - Product added
+2026-05-22 09:44:37,555 - INFO - Cart opened
+2026-05-22 09:44:37,564 - INFO - Cart page validation passed
+2026-05-22 09:44:58,204 - INFO - Membership section handled
+2026-05-22 09:45:05,377 - INFO - Proceed clicked
+2026-05-22 09:45:12,770 - INFO - Mobile number entered
+2026-05-22 09:45:12,771 - INFO - Mobile validation passed
+2026-05-22 09:45:28,015 - INFO - Continue clicked
+2026-05-22 09:45:59,187 - INFO - SELECT ADDRESS clicked
+2026-05-22 09:46:09,424 - INFO - Add New Address clicked
+2026-05-22 09:46:15,696 - INFO - Tanuku selected
+2026-05-22 09:46:28,381 - INFO - Address details entered
+2026-05-22 09:46:59,814 - INFO - Recipient details entered
+2026-05-22 09:47:00,061 - INFO - Address validation skipped
+2026-05-22 09:47:00,298 - INFO - Screenshot captured
+2026-05-22 09:47:00,298 - INFO - End to End flow completed
+2026-05-22 09:47:08,436 - INFO - Browser closed
+2026-05-22 11:53:25,473 - INFO - Homepage loaded
+2026-05-22 11:53:56,848 - INFO - Clicked Buy Medicines
+2026-05-22 11:54:04,860 - INFO - Switched to new tab
+2026-05-22 11:54:08,922 - INFO - Scrolled
+2026-05-22 11:54:11,115 - INFO - Clicked condition 3
+2026-05-22 11:54:14,900 - INFO - Product page loaded
+2026-05-22 11:54:33,238 - INFO - Filters applied
+2026-05-22 11:54:39,638 - INFO - Product added
+2026-05-22 11:54:45,170 - INFO - Browser closed
+2026-05-22 11:55:28,509 - INFO - Homepage loaded
+2026-05-22 11:55:57,192 - INFO - Clicked Buy Medicines
+2026-05-22 11:56:05,218 - INFO - Switched to new tab
+2026-05-22 11:56:09,235 - INFO - Scrolled
+2026-05-22 11:56:11,435 - INFO - Clicked condition 3
+2026-05-22 11:56:17,145 - INFO - Product page loaded
+2026-05-22 11:56:35,466 - INFO - Filters applied
+2026-05-22 11:56:41,890 - INFO - Product added
+2026-05-22 11:56:54,718 - INFO - Cart opened
+2026-05-22 11:56:54,726 - INFO - Cart page validation passed
+2026-05-22 11:57:15,271 - INFO - Membership section handled
+2026-05-22 11:57:22,506 - INFO - Proceed clicked
+2026-05-22 11:57:29,991 - INFO - Mobile number entered
+2026-05-22 11:57:29,991 - INFO - Mobile validation passed
+2026-05-22 11:57:45,196 - INFO - Continue clicked
+2026-05-22 11:58:16,397 - INFO - SELECT ADDRESS clicked
+2026-05-22 11:58:26,644 - INFO - Add New Address clicked
+2026-05-22 11:58:32,926 - INFO - Tanuku selected
+2026-05-22 11:58:49,600 - INFO - Address details entered
+2026-05-22 11:59:21,050 - INFO - Recipient details entered
+2026-05-22 11:59:21,283 - INFO - Address validation skipped
+2026-05-22 11:59:21,536 - INFO - Screenshot captured
+2026-05-22 11:59:21,537 - INFO - End to End flow completed
+2026-05-22 11:59:29,853 - INFO - Browser closed

@@ -1,0 +1,14 @@
+No popup found
+Button text: Buy Medicines
+Button href: https://www.apollopharmacy.in/
+Clicked Buy Medicines
+Clicked condition 3
+Product page loaded
+Found 81 checkboxes
+Applied filter 1
+Applied filter 2
+Applied filter 3
+Applied filter 4
+Successfully applied 4 filters
+Found 24 add buttons
+Added product to cart

@@ -1,0 +1,2 @@
+[32mINFO    [0m utils.logger:test_negative_cases.py:49 TC05 NEGATIVE PASSED
+[32mINFO    [0m utils.logger:test_negative_cases.py:22 Browser closed

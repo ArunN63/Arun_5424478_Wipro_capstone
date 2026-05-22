@@ -1,0 +1,13 @@
+[32mINFO    [0m utils.logger:test_positive_cases.py:35 Homepage loaded
+[32mINFO    [0m utils.logger:test_positive_cases.py:43 Buy Medicines clicked
+[32mINFO    [0m utils.logger:test_positive_cases.py:57 Scrolled little
+[32mINFO    [0m utils.logger:test_positive_cases.py:65 Diabetes category opened
+[32mINFO    [0m utils.logger:test_positive_cases.py:73 Product page loaded
+[32mINFO    [0m utils.logger:test_positive_cases.py:81 Products loaded
+[32mINFO    [0m utils.logger:test_positive_cases.py:89 Product added
+[32mINFO    [0m utils.logger:test_positive_cases.py:97 Cart opened
+[32mINFO    [0m utils.logger:test_positive_cases.py:111 Cart page verified
+[32mINFO    [0m utils.logger:test_positive_cases.py:119 Circle Membership added
+[32mINFO    [0m utils.logger:test_positive_cases.py:129 Screenshot captured
+[32mINFO    [0m utils.logger:test_positive_cases.py:135 TC01 PASSED
+[32mINFO    [0m utils.logger:test_positive_cases.py:21 Browser closed

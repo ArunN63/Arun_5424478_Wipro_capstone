@@ -1,0 +1,8 @@
+[32mINFO    [0m utils.logger:test_end_to_end.py:40 Homepage loaded
+[32mINFO    [0m utils.logger:test_end_to_end.py:47 Clicked Buy Medicines
+[32mINFO    [0m utils.logger:test_end_to_end.py:54 Switched to new tab
+[32mINFO    [0m utils.logger:test_end_to_end.py:68 Scrolled
+[32mINFO    [0m utils.logger:test_end_to_end.py:75 Clicked condition 5
+[32mINFO    [0m utils.logger:test_end_to_end.py:82 Product page loaded
+[32mINFO    [0m utils.logger:test_end_to_end.py:89 Filters applied
+[32mINFO    [0m utils.logger:test_end_to_end.py:206 Browser closed

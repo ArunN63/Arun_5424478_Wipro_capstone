@@ -1,0 +1,8 @@
+No popup found
+Button text: Buy Medicines
+Button href: https://www.apollopharmacy.in/
+Clicked Buy Medicines
+Clicked condition 3
+Product page loaded
+Navigated URL: https://www.apollopharmacy.in/shop-by-health-conditions/stomach-care?page=99
+Products found: 24

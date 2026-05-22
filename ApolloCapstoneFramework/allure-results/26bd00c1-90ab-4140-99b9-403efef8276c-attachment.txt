@@ -1,0 +1,13 @@
+No popup found
+Button text: Buy Medicines
+Button href: https://www.apollopharmacy.in/
+Clicked Buy Medicines
+Clicked condition 1
+Product page loaded
+Found 24 add buttons
+Added product to cart
+Cart opened
+Current URL: https://www.apollopharmacy.in/medicines-cart?source=diabetic
+Checking cart items...
+Membership section skipped: Message: 
+

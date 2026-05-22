@@ -1,0 +1,2 @@
+[32mINFO    [0m utils.logger:test_positive_cases.py:118 TC03 PASSED
+[32mINFO    [0m utils.logger:test_positive_cases.py:21 Browser closed
